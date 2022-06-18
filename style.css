@@ -43,6 +43,7 @@ body {
 
 .top > label {
     display: inline-block;
+    font-family: monospace;
     padding: 6px 12px;
     cursor: pointer;
     font-size: 20px;
@@ -67,6 +68,7 @@ input[type="file"] {
 }
 
 .controls > label {
+    font-family: monospace;
     color: white;
     font-size: 20px;
 }
