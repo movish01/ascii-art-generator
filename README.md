@@ -28,7 +28,7 @@ Now, after the image has been uploaded, an array is created on the top of the im
 <p align="center">
    <img src = "assets/image-grid.png" widht="827" height="544">
 </p>
-The user can change the number of cells using the slider at the bottom of the uploaded image (by default the slider value 1 represents the original image, it can be controlled using both cursor movement and arrow keys).
+The user can change the number of cells using the slider at the bottom of the uploaded image (by default the slider value 1 represents the original image, it can be controlled using both cursor movement and arrow keys). <br /> <br />
 <p align="center">
    <img src = "assets/resolution-slider.gif" width = "700">
 </p>
